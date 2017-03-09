@@ -1,2 +1,2 @@
 # HelloWorldTest
-this is jsut a test
+this is just a test
