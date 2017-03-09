@@ -1,4 +1,4 @@
 # HelloWorldTest
 This is just a test!
 
-'// * # This ist just a crazy BugFix
+'// * # This is just a crazy BugFix
